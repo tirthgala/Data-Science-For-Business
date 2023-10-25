@@ -3,7 +3,7 @@ This repository contains all I have learnt through the course of Data Science fo
 
 # Content
 Each folder is an assignment. These cases have agendas focused on: 
-1. Developing understanding of data and background of business in hand.
+1. Understanding of data and background of business in hand.
 2. Finding (causation or correlation) relationship between variables in dataset.
 3. Building and Evaluating Statistical Models based on variables for prediction.
 4. Deployment of models and providing recommendations for business growth.
