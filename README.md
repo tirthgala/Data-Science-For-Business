@@ -1,5 +1,5 @@
 # Overview
-This repository contains 3 cases as assignments and a Final Project put together via team effort. All have set of agendas in terms of questions to be achieved. The 'Final-Project' encapuslates real-world deployemnt of parametric models with the ultimate goal of accurate prediction and providing recommendations.
+This repository contains 3 cases as assignments and a Final Project put together via team effort. All have set of agendas in terms of questions to be achieved. The 'Final-Project' encapsulates real-world deployemnt of parametric models with the ultimate goal of accurate prediction and providing recommendations.
 
 # Content
 Each folder is an assignment. These cases have agendas focused on: 
